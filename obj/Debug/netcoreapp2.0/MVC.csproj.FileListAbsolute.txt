@@ -1,0 +1,10 @@
+/Users/BradRigby/Sites/dotnetcore/MVC/obj/Debug/netcoreapp2.0/MVC.csproj.CoreCompileInputs.cache
+/Users/BradRigby/Sites/dotnetcore/MVC/obj/Debug/netcoreapp2.0/MVC.AssemblyInfoInputs.cache
+/Users/BradRigby/Sites/dotnetcore/MVC/obj/Debug/netcoreapp2.0/MVC.AssemblyInfo.cs
+/Users/BradRigby/Sites/dotnetcore/MVC/bin/Debug/netcoreapp2.0/MVC.deps.json
+/Users/BradRigby/Sites/dotnetcore/MVC/bin/Debug/netcoreapp2.0/MVC.runtimeconfig.json
+/Users/BradRigby/Sites/dotnetcore/MVC/bin/Debug/netcoreapp2.0/MVC.runtimeconfig.dev.json
+/Users/BradRigby/Sites/dotnetcore/MVC/bin/Debug/netcoreapp2.0/MVC.dll
+/Users/BradRigby/Sites/dotnetcore/MVC/bin/Debug/netcoreapp2.0/MVC.pdb
+/Users/BradRigby/Sites/dotnetcore/MVC/obj/Debug/netcoreapp2.0/MVC.dll
+/Users/BradRigby/Sites/dotnetcore/MVC/obj/Debug/netcoreapp2.0/MVC.pdb
